@@ -1,4 +1,4 @@
-![Screenshot (245)](https://github.com/user-attachments/assets/a68c9c9a-2b8f-4cb6-9346-1a5a909cd083)# College Management System
+# College Management System
 
 ## Overview
 This is a **Java Swing-based College Management System** that allows users to manage student data, including adding, searching, and deleting student records. The system uses **MySQL** as the database and provides a user-friendly interface built with Java Swing.
